@@ -1,2 +1,4 @@
-# DSA
-my own code plus the optimal solutions to various problems on platforms like Leetcode(for now)
+# Problems
+My approach(in comments) and the Optimal Solution is here.
+It is subdivided into various topics for reference.
+
